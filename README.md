@@ -16,6 +16,6 @@ pip install numpy
 
 pip install pandas
 
-pip install keras
+pip install keras\\
 pip install deepface
 
