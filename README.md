@@ -13,6 +13,8 @@ Fotoğraftan yaş tahmini yapılırken ikinci bir yöntem olarak yeni bir kütü
 
 # Kullanılan-Kütüphaneler
 pip install numpy
+
 pip install pandas
+
 pip install keras
 
