@@ -11,7 +11,7 @@ Görüntülerden yaş tahmini ile ilgili mevcut araştırmalar, tahminlerin nas�
 
 Fotoğraftan yaş tahmini yapılırken ikinci bir yöntem olarak yeni bir kütüphane olan DeepFace kütüphanesi özellikleri kullanıldı. 7 yıllık bir kütüphane olan DeepFace yeni bir kütüphane olmasına rağmen gayet olumlu sonuçlar verebilmekte. DeepFace kütüphanesine ait olan yüz öznitelik analizinin analyze() fonksiyonu ile yaş tahmini yapıldı. (analyze() fonksiyonu ile yaş, cinsiyet, duygu ve etnik köken tahmini yapılmaktadır. Fakat biz yaş tahminini göz önünde tutup diğer girdileri ihmal ettik.)  Cihazda bulunan herhangi bir fotoğraf sisteme tanıtıldı ve çalıştırıldı.
 
-#Kullanılan Kütüphaneler
+# Kullanılan-Kütüphaneler
 pip install numpy
 pip install pandas
 pip install keras
