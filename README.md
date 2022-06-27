@@ -1,6 +1,8 @@
 # Yas-Tahmini
 
-Bu çalışma İstanbul Medeniyet Üniversitesi, Mühendislik ve Doğa Bilimleri Fakültesi, Matematik Bölümü, Mezuniyet Projesi için yapılmış bir çalışmadır. Bu çalışmada denetimli yaş aralığı tahmini yapılarak bireylerin yaşlarını tahmin etmek hedeflenmiştir. Hali hazırda var olan, önceden eğitilmiş modeller yorumlanarak ve geliştirilerek yaş tahmini algoritması elde edilmiştir. Bir grup bireyin fotoğraflarından oluşan veri seti üzerinde oluşturulan model tahmini için kullanılmıştır. Modeli eğitmek için WIKI veri seti kullanılmıştır. (https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
+Bu çalışma İstanbul Medeniyet Üniversitesi, Mühendislik ve Doğa Bilimleri Fakültesi, Matematik Bölümü, Mezuniyet Projesi için yapılmış bir çalışmadır.
+
+Bu çalışmada denetimli yaş aralığı tahmini yapılarak bireylerin yaşlarını tahmin etmek hedeflenmiştir. Hali hazırda var olan, önceden eğitilmiş modeller yorumlanarak ve geliştirilerek yaş tahmini algoritması elde edilmiştir. Bir grup bireyin fotoğraflarından oluşan veri seti üzerinde oluşturulan model tahmini için kullanılmıştır. Modeli eğitmek için WIKI veri seti kullanılmıştır. (https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
 Ayrıca henüz tazeliğini koruyan DeepFace hazır paketinin 'yüz öznitelik analizi' kullanılarak yaş tahmini yapılmıştır.
 
 
